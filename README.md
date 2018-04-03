@@ -1,2 +1,4 @@
-# MachineLearningExamples
-A repository of machine-learning examples, mostly through the medium of Jupyter notebooks.
+# Machine-LearningE xamples
+This repository has a few example notebooks going through various machine-learning exercises.
+
+
