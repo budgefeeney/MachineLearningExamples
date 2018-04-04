@@ -3,6 +3,8 @@ This repository has a few example notebooks going through various machine-learni
 
 ## House Price Examples
 
+Files for this project are in the `Example1-HousePrices` folder
+
 The base notebook that I've been using for prep is `housesales.ipynb`
 
 The notebooks I've worked through are
